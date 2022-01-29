@@ -33,7 +33,9 @@ a{
     color:black;
     font-size: 1.5rem;
 }
-
+a:hover{
+    color: red;
+}
 section img{
     position: relative;
     width: 95vw;
